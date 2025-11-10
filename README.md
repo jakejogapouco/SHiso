@@ -31,7 +31,7 @@ Double-click the file (if set as executable), or
 Run it manually:
 
 bash
-Copiar código
+
 ./shiso_extract.sh
 (If needed, use sudo ./shiso_extract.sh)
 
