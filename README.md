@@ -52,5 +52,5 @@ I’m not a Python or Bash developer, and I don’t provide bug fixes or support
 Use it at your own risk — it’s open source and meant to help other Linux users
 who have trouble extracting Xbox 360 ISOs.
 
-📜 License
+## 📜 License
 MIT License — feel free to modify and share.
